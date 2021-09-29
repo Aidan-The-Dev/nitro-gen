@@ -16,7 +16,7 @@
 # Usage
 
 ```javascript
-const {NitroGen} = require('nitro-gen')
+const {NitroGen} = require('@aidanthesister?nitro-gen')
 const nitro = new NitroGen()
 const prefix = '!'
 
